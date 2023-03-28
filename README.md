@@ -1,4 +1,4 @@
-# Udacity Capstone Project Notebook - Starbucks Offer Analytics
+# Udacity Capstone Project - Starbucks Offer Analytics
 
 # Introduction / Overview
 
@@ -6,7 +6,7 @@
 We will leverage what we’ve learned throughout the program to build a data science project, for Starbucks Offer Analytics.
 
 
-We have data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks. Not all users receive the same offer, and that is the challenge to solve with this data set. This data set is a simplified version of the real Starbucks app because the underlying simulator only has one product whereas Starbucks actually sells dozens of products.
+We have datasets containing simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks. Not all users receive the same offer, and that is the challenge to solve with this data set. This data set is a simplified version of the real Starbucks app because the underlying simulator only has one product whereas Starbucks actually sells dozens of products.
 
 ## Objective
 
@@ -15,14 +15,13 @@ Our objective is to combine transaction, demographic and offer data to determine
 
 # Steps
 
-We will be fillowing steps of the data science process:
+We will be following steps of the data science process:
 
 - First we will define the problem we want to solve and investigate potential solutions.
-- Next, we will analyze the problem through visualizations and data exploration to have a better understanding of what algorithms and features are appropriate for solving it.
-- We  will then implement the algorithms and metrics, documenting the preprocessing, refinement, and post-processing steps along the way.
-- Afterward, we will collect results about our findings, visualize significant quantities, validate/justify your results, and make any concluding remarks about whether our implementation adequately solves the problem.
-- We will construct a Capstone Project Report as blog post to document all of the steps from start to finish of our project and provide link at the bottom of this page.
-
+- Next, we will perform analysis through visualizations and data exploration to have a better understanding of what algorithms and features are appropriate for solving the problem.
+- We  will then implement the algorithms/models and metrics, documenting the preprocessing, refinement, and post-processing steps along the way.
+- Afterward, we will collect results about our findings, visualize significant quantities, validate/justify our results, and make any concluding remarks about whether our implementation adequately solves the problem.
+- We will construct a Capstone Project Report as a blog post to document all of the steps from start to finish of our project and provide link at the bottom of this page.
 
 
 # Installation
