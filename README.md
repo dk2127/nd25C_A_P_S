@@ -1,6 +1,6 @@
-# Title: Udacity Capstone Project Notebook - Starbucks Offer Analytics
+# Udacity Capstone Project Notebook - Starbucks Offer Analytics
 
-# Introduction
+# Introduction / Overview
 
 
 We will leverage what we’ve learned throughout the program to build a data science project, for Starbucks Offer Analytics.
