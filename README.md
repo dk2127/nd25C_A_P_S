@@ -1,4 +1,4 @@
-# U_d_a_c_i_t_y C_a_p_s_t_o_n_e P_r_o_j_e_c_t - S_t_a_r_b_u_c_k_s Offer Analytics
+# C_a_p_s_t_o_n_e   P_r_o_j_e_c_t  -  S_t_a_r_b_u_c_k_s   Offer   Analytics
 
 # Introduction / Overview
 
