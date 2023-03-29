@@ -1,12 +1,12 @@
-# Udacity Capstone Project - Starbucks Offer Analytics
+# U_d_a_c_i_t_y C_a_p_s_t_o_n_e P_r_o_j_e_c_t - S_t_a_r_b_u_c_k_s Offer Analytics
 
 # Introduction / Overview
 
 
-We will leverage what we’ve learned throughout the program to build a data science project, for Starbucks Offer Analytics.
+We will leverage what we’ve learned throughout the program to build a data science project, for S_t_a_r_b_u_c_k_s Offer Analytics.
 
 
-We have datasets containing simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks. Not all users receive the same offer, and that is the challenge to solve with this data set. This data set is a simplified version of the real Starbucks app because the underlying simulator only has one product whereas Starbucks actually sells dozens of products.
+We have datasets containing simulated data that mimics customer behavior on the S_t_a_r_b_u_c_k_s rewards mobile app. Once every few days, S_t_a_r_b_u_c_k_s sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks. Not all users receive the same offer, and that is the challenge to solve with this data set. This data set is a simplified version of the real S_t_a_r_b_u_c_k_s app because the underlying simulator only has one product whereas S_t_a_r_b_u_c_k_s actually sells dozens of products.
 
 ## Objective
 
@@ -103,4 +103,3 @@ The Capstone Project Report that will have project definition, data exploration,
 
 - stackoverflow website for error resolution and coding ideas
 - towardsdatascience website for python concepts and coding ideas
-
