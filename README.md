@@ -1,12 +1,12 @@
-# C_a_p_s_t_o_n_e   P_r_o_j_e_c_t  -  S_t_a_r_b_u_c_k_s   Offer   Analytics
+# Capstone Project - Starbucks  Offer   Analytics
 
 # Introduction / Overview
 
 
-We will leverage what we’ve learned throughout the program to build a data science project, for S_t_a_r_b_u_c_k_s Offer Analytics.
+We will leverage what we’ve learned throughout the program to build a data science project, for Starbucks Offer Analytics.
 
 
-We have datasets containing simulated data that mimics customer behavior on the S_t_a_r_b_u_c_k_s rewards mobile app. Once every few days, S_t_a_r_b_u_c_k_s sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks. Not all users receive the same offer, and that is the challenge to solve with this data set. This data set is a simplified version of the real S_t_a_r_b_u_c_k_s app because the underlying simulator only has one product whereas S_t_a_r_b_u_c_k_s actually sells dozens of products.
+We have datasets containing simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks. Not all users receive the same offer, and that is the challenge to solve with this data set. This data set is a simplified version of the real Starbucks app because the underlying simulator only has one product whereas Starbucks actually sells dozens of products.
 
 ## Objective
 
@@ -33,35 +33,16 @@ The notebook contained in this repository should be at main level. The data file
 
 Most of the libraries used for this project are open source, readily available online: 
 
-- pandas
-- pandas.plotting |- scatter_matrix
-
-- numpy 
-- math
-- json
-- datetime |- datetime
-- scipy.stats 
-
-- sklearn.metrics |- confusion_matrix, silhouette_score, calinski_harabasz_score, davies_bouldin_score
-- sklearn.metrics |- classification_report, accuracy_score, ConfusionMatrixDisplay, mean_squared_error, r2_score
-
-- sklearn.model_selection |- train_test_split, GridSearchCV, cross_val_score
-- sklearn.feature_selection |- RFE
-- sklearn.linear_model |- LinearRegression, LogisticRegression, LassoCV
-- sklearn.pipeline |- Pipeline
-
-- sklearn.preprocessing |- StandardScaler
-- sklearn.svm |- SVC
-
-- sklearn.ensemble |- RandomForestClassifier, RandomForestRegressor, GradientBoostingRegressor
-- sklearn.tree |- DecisionTreeClassifier
-- sklearn.cluster |- KMeans
-
-- pickle
-- joblib
-
-- matplotlib.pyplot
-- seaborn
+- pandas, pandas.plotting, numpy, math, json, datetime, scipy.stats, pickle, joblib, matplotlib.pyplot, seaborn
+- sklearn.metrics (confusion_matrix, silhouette_score, calinski_harabasz_score, davies_bouldin_score, classification_report, accuracy_score, ConfusionMatrixDisplay, mean_squared_error, r2_score)
+- sklearn.model_selection (train_test_split, GridSearchCV, cross_val_score)
+- sklearn.feature_selection (RFE)
+- sklearn.linear_model(LinearRegression, LogisticRegression, LassoCV)
+- sklearn.pipeline (Pipeline)
+- sklearn.preprocessing (StandardScaler)
+- sklearn.ensemble (RandomForestClassifier, RandomForestRegressor, GradientBoostingRegressor)
+- sklearn.tree (DecisionTreeClassifier)
+- sklearn.cluster (KMeans)
 
 
 # File Descriptions
@@ -95,11 +76,11 @@ We are given the data in three files. Below is the schema and explanation of eac
 
 # Conclusion
    
-The Capstone Project Report that will have project definition, data exploration, anlyasis, metrics, results, and conclusion. The report will be posted on Medium as a blog(link).
+The Capstone Project Report that will have project definition, data exploration, anlyasis, metrics, results, and conclusion. The report is posted on Medium as a blog (https://medium.com/@dk2127/capstone-project-starbucks-offer-analytics-55229d5fe176).
 
 
 # Licensing, Authors, Acknowledgements
 
-
+- pandas.pydata.org and scikit-learn.org for python documentation
 - stackoverflow website for error resolution and coding ideas
 - towardsdatascience website for python concepts and coding ideas
