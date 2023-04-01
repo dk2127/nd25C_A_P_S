@@ -27,7 +27,7 @@ We will be following steps of the data science process:
 # Installation
    
 This project was created and run using Python version 3.9.12.
-The notebook contained in this repository should be at main level. The data files will need to be in the **data** subdirectory.
+The notebook contained in this repository should be at main level. Files in data.zip will need to be extracted in the **data** subdirectory.
 
 ## Libraries used
 
